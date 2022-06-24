@@ -12,7 +12,7 @@ defineProps({
     <h1 class="green">{{ msg }}</h1>
     <h3>
       This POC included with following features for UI development in VUEJS environment
-     
+      
     </h3>
   </div>
 </template>

@@ -40,6 +40,6 @@ import SupportIcon from './icons/IconSupport.vue'
     <template #icon>
       <SupportIcon />
     </template>
-    <template #heading>Created by CLI</template>
+    <template #heading>Lazy Loading of Component</template>
 </WelcomeItem>
 </template>
